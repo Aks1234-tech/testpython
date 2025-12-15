@@ -1,1 +1,1 @@
-print("Hello new file 1")
+print"Hello new file 1")
